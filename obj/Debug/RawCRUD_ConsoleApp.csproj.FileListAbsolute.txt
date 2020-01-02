@@ -1,0 +1,6 @@
+C:\Users\Remus Iftimie\Personal_GitHub\RawCRUD_ConsoleApp\bin\Debug\RawCRUD_ConsoleApp.exe.config
+C:\Users\Remus Iftimie\Personal_GitHub\RawCRUD_ConsoleApp\bin\Debug\RawCRUD_ConsoleApp.exe
+C:\Users\Remus Iftimie\Personal_GitHub\RawCRUD_ConsoleApp\bin\Debug\RawCRUD_ConsoleApp.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\RawCRUD_ConsoleApp\obj\Debug\RawCRUD_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\RawCRUD_ConsoleApp\obj\Debug\RawCRUD_ConsoleApp.exe
+C:\Users\Remus Iftimie\Personal_GitHub\RawCRUD_ConsoleApp\obj\Debug\RawCRUD_ConsoleApp.pdb

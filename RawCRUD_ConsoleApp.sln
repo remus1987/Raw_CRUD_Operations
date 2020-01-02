@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawCRUD_ConsoleApp", "RawCRUD_ConsoleApp.csproj", "{E3BEBC74-EC51-4EF3-BFD7-50FEC83F905B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3BEBC74-EC51-4EF3-BFD7-50FEC83F905B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BEBC74-EC51-4EF3-BFD7-50FEC83F905B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BEBC74-EC51-4EF3-BFD7-50FEC83F905B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BEBC74-EC51-4EF3-BFD7-50FEC83F905B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B64C198-AF6A-46E7-9817-4FDAA1883850}
+	EndGlobalSection
+EndGlobal
